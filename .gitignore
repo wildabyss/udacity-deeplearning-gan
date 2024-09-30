@@ -1,0 +1,5 @@
+face-generation-proj/processed-celeba-small*
+face-generation-proj/processed_celeba_small/
+*checkpoint*.ipynb
+__pycache__
+__MACOSX
